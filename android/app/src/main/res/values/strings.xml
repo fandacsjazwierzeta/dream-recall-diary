@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dream Recall Diary</string>
+    <string name="app_title">DREAM RECALL DIARY</string>
+    <string name="app_version">VERSION 1.0 · OFFLINE</string>
+
+    <string name="brand_line_one">DREAM RECALL</string>
+    <string name="brand_line_two">DIARY</string>
+    <string name="splash_tagline">WRITE IT DOWN BEFORE IT FADES</string>
+
+    <string name="lock_hint">ENTER YOUR PIN</string>
+    <string name="lock_wrong">WRONG PIN</string>
+    <string name="lock_entered">%1$d OF 4 DIGITS</string>
+    <string name="lock_cooldown">LOCKED FOR %1$d SECONDS</string>
+    <string name="key_clear">CLEAR</string>
+
+    <string name="menu_tagline">YOUR NIGHTS, IN YOUR OWN WORDS</string>
+    <string name="menu_hint">ONE TAP, THEN WRITE</string>
+    <string name="menu_empty">NO DREAMS YET — START WITH TONIGHT</string>
+    <string name="stat_dreams">DREAMS</string>
+    <string name="stat_nights">NIGHTS</string>
+    <string name="stat_vividness">VIVIDNESS</string>
+    <string name="stat_nights_logged">NIGHTS LOGGED</string>
+    <string name="stat_streak">LONGEST STREAK</string>
+
+    <string name="cta_capture">START CAPTURE</string>
+    <string name="cta_archive">ARCHIVE</string>
+    <string name="cta_patterns">PATTERNS</string>
+    <string name="cta_constellation">CONSTELLATION</string>
+    <string name="cta_calendar">CALENDAR</string>
+    <string name="cta_settings">SETTINGS</string>
+    <string name="cta_save">SAVE</string>
+    <string name="cta_done">DONE</string>
+    <string name="cta_write_again">WRITE AGAIN</string>
+    <string name="cta_menu">MENU</string>
+    <string name="cta_open_dream">OPEN DREAM</string>
+    <string name="cta_see_constellation">SEE IN CONSTELLATION</string>
+    <string name="cta_save_changes">SAVE CHANGES</string>
+    <string name="cta_change_pin">CHANGE PIN</string>
+    <string name="cta_open_backup">OPEN BACKUP</string>
+    <string name="cta_export">EXPORT ARCHIVE</string>
+    <string name="cta_import">IMPORT ARCHIVE</string>
+
+    <string name="capture_night">NIGHT OF %1$s</string>
+    <string name="capture_words">%1$d WORDS</string>
+    <string name="capture_placeholder">I remember…</string>
+    <string name="capture_empty">WRITE SOMETHING FIRST</string>
+    <string name="capture_dimmer">SCREEN DIMMER</string>
+
+    <string name="result_title">DREAM SAVED</string>
+    <string name="result_hint">TAGS MAKE THE CONSTELLATION</string>
+    <string name="result_suggested">OFTEN IN YOUR DREAMS</string>
+    <string name="tag_placeholder">add a tag</string>
+    <string name="cat_place">PLACE</string>
+    <string name="cat_person">PERSON</string>
+    <string name="cat_feeling">FEELING</string>
+    <string name="vividness_state">VIVIDNESS %1$d OF 5</string>
+
+    <string name="archive_title">DREAM ARCHIVE</string>
+    <string name="archive_search">search your dreams</string>
+    <string name="archive_empty">NO DREAMS YET</string>
+
+    <string name="constellation_title">CONSTELLATION</string>
+    <string name="constellation_legend">%1$d DREAMS · %2$d LINKS</string>
+    <string name="constellation_thin">TAG TWO DREAMS TO DRAW YOUR FIRST LINE</string>
+
+    <string name="patterns_title">RECURRING PATTERNS</string>
+    <string name="patterns_places">PLACES</string>
+    <string name="patterns_people">PEOPLE</string>
+    <string name="patterns_feelings">FEELINGS</string>
+    <string name="patterns_empty">TAG A DREAM TO SEE YOUR PATTERNS</string>
+
+    <string name="calendar_day_state">DAY %1$d · %2$d DREAMS</string>
+
+    <string name="settings_title">SETTINGS</string>
+    <string name="settings_brightness">SCREEN BRIGHTNESS</string>
+    <string name="settings_font">DREAM TEXT SIZE</string>
+    <string name="settings_preview">The staircase kept adding floors.</string>
+    <string name="settings_require_pin">REQUIRE PIN</string>
+    <string name="settings_backup">LOCAL BACKUP</string>
+    <string name="about_privacy">NOTHING LEAVES THIS DEVICE</string>
+    <string name="bright_soft">SOFT</string>
+    <string name="bright_dim">DIM</string>
+    <string name="bright_darkest">DARKEST</string>
+    <string name="font_small">SMALL</string>
+    <string name="font_medium">MEDIUM</string>
+    <string name="font_large">LARGE</string>
+    <string name="pin_set">SET A PIN</string>
+    <string name="pin_confirm">CONFIRM YOUR PIN</string>
+    <string name="pin_verify">ENTER YOUR PIN</string>
+
+    <string name="backup_title">LOCAL BACKUP</string>
+    <string name="backup_subtitle">ENCRYPTED TEXT VAULT</string>
+    <string name="backup_export">EXPORT</string>
+    <string name="backup_import">IMPORT</string>
+    <string name="backup_passphrase">passphrase, 6 characters or more</string>
+    <string name="backup_paste">paste your vault code here</string>
+    <string name="backup_count">%1$d DREAMS · ENCRYPTED</string>
+    <string name="backup_copy_hint">LONG PRESS THE CODE TO COPY IT</string>
+    <string name="backup_result">ADDED %1$d · SKIPPED %2$d</string>
+    <string name="backup_error">WRONG PASSPHRASE OR DAMAGED CODE</string>
+
+    <string name="clear_title">CLEAR THIS DRAFT</string>
+    <string name="clear_message">The words you have written tonight will be removed.</string>
+    <string name="delete_title">DELETE THIS DREAM</string>
+    <string name="delete_message">This entry and its tags will be removed from your diary.</string>
+    <string name="action_clear">CLEAR</string>
+    <string name="action_keep">KEEP</string>
+    <string name="action_delete">DELETE</string>
+    <string name="action_cancel">CANCEL</string>
+
+    <string name="cd_logo">Dream Recall Diary emblem</string>
+    <string name="cd_sleeping_eye">Sleeping eye illustration</string>
+    <string name="cd_quill">Feather quill illustration</string>
+    <string name="cd_star_node">Constellation star illustration</string>
+    <string name="cd_home">Home</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_edit">Edit this dream</string>
+    <string name="cd_delete">Delete this dream</string>
+    <string name="cd_search">Search the archive</string>
+    <string name="cd_add_tag">Add this tag</string>
+    <string name="cd_remove_tag">Remove this tag</string>
+    <string name="cd_remove_filter">Remove this filter</string>
+    <string name="cd_confirm_pin">Confirm PIN</string>
+    <string name="cd_clear_draft">Clear the draft</string>
+    <string name="cd_keep_draft">Keep the draft and go back</string>
+    <string name="cd_star">Vividness %1$d</string>
+    <string name="cd_previous_month">Previous month</string>
+    <string name="cd_next_month">Next month</string>
+</resources>
